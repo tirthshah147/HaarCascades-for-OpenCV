@@ -3,6 +3,7 @@ Different HaarCascades are provided here for Image Recognition and to implement 
 
 For following objects HaarCascades are there in repository:
 <ul>
+  <li>Cars</li>
   <li>Eyes</li>
   <li>Eyes with sunglasses</li>
   <li>Frontal Cat Face</li>
